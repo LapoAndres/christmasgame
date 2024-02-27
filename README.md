@@ -4,15 +4,16 @@ Este es un pequeño juego navideño desarrollado siguiendo el tutorial del canal
 <br>
 <h3 align="left">Instrucciones de Juego</h3>
 <ol>
-  <li strong>Ingresar Número: Introduce un número entre 0 y 16 en el campo designado.</li>
-  <li strong>Elegir Icono Navideño: Selecciona uno de los cuatro botones que representan a Papá Noel, Estrella, Árbol de Navidad y Regalo.</li>
-  <li strong>Mostrar Matriz: Después de ingresar el número y elegir el icono, se generará una matriz de 4x4 en el área de texto.</li>
-  <li strong>Estadísticas: En la parte derecha del área de texto, se presentan las siguientes estadísticas:</li>
+  <li><strong>Ingresar Número:</strong> Introduce un número entre 0 y 16 en el campo designado.</li>
+  <li><strong>Elegir Icono Navideño:</strong> Selecciona uno de los cuatro botones que representan a Papá Noel, Estrella, Árbol de Navidad y Regalo.</li>
+  <li><strong>Mostrar Matriz:</strong> Después de ingresar el número y elegir el icono, se generará una matriz de 4x4 en el área de texto.</li>
+  <li>strong>Estadísticas:</strong> En la parte derecha del área de texto, se presentan las siguientes estadísticas:
     <ul>  
       <l1>Icono Elegido: Muestra el icono seleccionado.</l1>
       <l1>Cantidad Ingresada: Indica el número ingresado por el usuario.</l1>
       <l1>Iconos Encontrados: Muestra la cantidad de iconos encontrados en la matriz.</l1>
       <l1>Resultado: Indica si el usuario ha acertado o fallado.</l1>
+      </li>
     </ul>
 </ol>
 <br>
