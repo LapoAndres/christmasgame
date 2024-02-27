@@ -20,11 +20,11 @@ Este es un pequeño juego navideño desarrollado siguiendo el tutorial del canal
 <p>Este juego fue desarrollado utilizando Java y la interfaz gráfica de usuario (GUI) de Swing. Se implementó en el IDE Eclipse y se basó en el tutorial proporcionado por el canal de YouTube TodoCode. Se resolvieron algunos errores encontrados durante el proceso de desarrollo consultando la documentación oficial de Java y comunidades en línea como Stack Overflow.</p>
 <br>
 <h3 align="left">Estructura del Proyecto</h3>
-<ol>
+<ul>
   <li>Ventana1.java: Clase principal que contiene la interfaz gráfica del juego.</li>
   <li>Controller.java: Clase que maneja la lógica del juego y la generación de la matriz.</li>
   <li>Image/: Carpeta que contiene las imágenes de los iconos navideños utilizados en los botones.</li>
-</ol>
+</ul>
 <br>
 <h3 align="left">Requisitos</h3>
 <p>Para ejecutar el juego, se requiere tener instalado Java Development Kit (JDK) en el sistema. El juego se puede ejecutar desde cualquier IDE compatible con Java, como Eclipse o IntelliJ IDEA.</p>
