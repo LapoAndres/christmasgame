@@ -9,12 +9,12 @@ Este es un pequeño juego navideño desarrollado siguiendo el tutorial del canal
   <li><strong>Mostrar Matriz:</strong> Después de ingresar el número y elegir el icono, se generará una matriz de 4x4 en el área de texto.</li>
   <li><strong>Estadísticas:</strong> En la parte derecha del área de texto, se presentan las siguientes estadísticas:</li>
 </ol>
-<ul>  
-  <li>Icono Elegido: Muestra el icono seleccionado.</li>
-  <li>Cantidad Ingresada: Indica el número ingresado por el usuario.</li>
-  <li>Iconos Encontrados: Muestra la cantidad de iconos encontrados en la matriz.</li>
-  <li>Resultado: Indica si el usuario ha acertado o fallado.</li>  
-</ul>
+  <ul>  
+    <li>Icono Elegido: Muestra el icono seleccionado.</li>
+    <li>Cantidad Ingresada: Indica el número ingresado por el usuario.</li>
+    <li>Iconos Encontrados: Muestra la cantidad de iconos encontrados en la matriz.</li>
+    <li>Resultado: Indica si el usuario ha acertado o fallado.</li>  
+  </ul>
 
 <br>
 <h3 align="left">Desarrollo</h3>
